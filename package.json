@@ -2,6 +2,10 @@
   "name": "eslint-config-johnanon",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "João Alves",
+    "email": "njoao97710@gmail.com"
+  },
   "license": "MIT",
   "scripts": {
     "lint": "eslint -c index.js tests/*.tsx --fix"
