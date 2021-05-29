@@ -1,1 +1,1 @@
-module.exports = require('./lib/ci/next');
+module.exports = require('./lib/ci/next')
