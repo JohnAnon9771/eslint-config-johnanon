@@ -1,1 +1,1 @@
-module.exports = require('./lib/ci/mobile');
+module.exports = require('./lib/ci/mobile')

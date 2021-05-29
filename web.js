@@ -1,1 +1,1 @@
-module.exports = require('./lib/ci/web');
+module.exports = require('./lib/ci/web')
